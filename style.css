@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 1px solid rgb(202, 199, 38);
+    border-radius: 12px;
+    
+    
+    background-image: url(burger.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+   }
+
+header{
+    
+    
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+}
+nav ul li{
+    
+    display: inline;
+    margin-right: 20px;
+}
+div{
+    h1{
+        text-align: center;
+        color: rgb(240, 171, 11);
+    }
+    h3{
+        color: gold;
+        text-align: center;
+    }
+   
+}
+
+main{
+    h2{
+        color:  rgb(240, 171, 11);
+         
+    }
+    color: gold;
+    
+   
+}
+footer{
+    color: black;
+   text-align: center;
+   padding: 40px;
+    
+}
+
+@media screen and(min-widht:1023px) {
+   
+}
+@media screen and (min-widht:768px) and (max-widht:1023px) {
+ 
+}
+
+    @media screen and(max-widht:768px) {
+   
+}
